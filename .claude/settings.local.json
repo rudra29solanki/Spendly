@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Rudra Solanki\\\\OneDrive\\\\Desktop\\\\Projects\\\\expense-tracker\\\\expense-tracker\" -Force)",
+      "Bash(Select-Object Name)"
+    ]
+  }
+}
